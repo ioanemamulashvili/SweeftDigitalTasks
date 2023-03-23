@@ -1,0 +1,15 @@
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\Task 7 LEO.exe.config
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\Task 7 LEO.exe
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\Task 7 LEO.pdb
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\EntityFramework.dll
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\EntityFramework.xml
+F:\Programs\C#\source\repos\Task 7 LEO\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.csproj.AssemblyReference.cache
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.csproj.SuggestedBindingRedirects.cache
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.csproj.CoreCompileInputs.cache
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.csproj.CopyComplete
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.exe
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.pdb
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task_7_LEO.Migrations.AddStudentAndTeacherToDB.resources
+F:\Programs\C#\source\repos\Task 7 LEO\obj\Debug\Task 7 LEO.csproj.GenerateResource.cache

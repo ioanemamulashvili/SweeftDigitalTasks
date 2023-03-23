@@ -1,0 +1,11 @@
+F:\Programs\C#\source\repos\Task 8\bin\Debug\Task 8.exe.config
+F:\Programs\C#\source\repos\Task 8\bin\Debug\Task 8.exe
+F:\Programs\C#\source\repos\Task 8\bin\Debug\Task 8.pdb
+F:\Programs\C#\source\repos\Task 8\bin\Debug\Newtonsoft.Json.dll
+F:\Programs\C#\source\repos\Task 8\bin\Debug\Newtonsoft.Json.xml
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.csproj.AssemblyReference.cache
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.csproj.SuggestedBindingRedirects.cache
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.csproj.CoreCompileInputs.cache
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.csproj.CopyComplete
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.exe
+F:\Programs\C#\source\repos\Task 8\obj\Debug\Task 8.pdb

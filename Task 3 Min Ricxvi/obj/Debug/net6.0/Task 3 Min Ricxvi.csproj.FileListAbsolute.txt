@@ -1,0 +1,15 @@
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\bin\Debug\net6.0\Task 3 Min Ricxvi.exe
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\bin\Debug\net6.0\Task 3 Min Ricxvi.deps.json
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\bin\Debug\net6.0\Task 3 Min Ricxvi.runtimeconfig.json
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\bin\Debug\net6.0\Task 3 Min Ricxvi.dll
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\bin\Debug\net6.0\Task 3 Min Ricxvi.pdb
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.csproj.AssemblyReference.cache
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.AssemblyInfoInputs.cache
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.AssemblyInfo.cs
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.csproj.CoreCompileInputs.cache
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.dll
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\refint\Task 3 Min Ricxvi.dll
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.pdb
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\Task 3 Min Ricxvi.genruntimeconfig.cache
+F:\Programs\C#\source\repos\Task 3 Min Ricxvi\obj\Debug\net6.0\ref\Task 3 Min Ricxvi.dll

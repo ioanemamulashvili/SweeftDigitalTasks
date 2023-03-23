@@ -1,0 +1,15 @@
+F:\Programs\C#\source\repos\Task 1 Palindrome\bin\Debug\net6.0\Task 1 Palindrome.exe
+F:\Programs\C#\source\repos\Task 1 Palindrome\bin\Debug\net6.0\Task 1 Palindrome.deps.json
+F:\Programs\C#\source\repos\Task 1 Palindrome\bin\Debug\net6.0\Task 1 Palindrome.runtimeconfig.json
+F:\Programs\C#\source\repos\Task 1 Palindrome\bin\Debug\net6.0\Task 1 Palindrome.dll
+F:\Programs\C#\source\repos\Task 1 Palindrome\bin\Debug\net6.0\Task 1 Palindrome.pdb
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.csproj.AssemblyReference.cache
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.AssemblyInfoInputs.cache
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.AssemblyInfo.cs
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.csproj.CoreCompileInputs.cache
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.dll
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\refint\Task 1 Palindrome.dll
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.pdb
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\Task 1 Palindrome.genruntimeconfig.cache
+F:\Programs\C#\source\repos\Task 1 Palindrome\obj\Debug\net6.0\ref\Task 1 Palindrome.dll

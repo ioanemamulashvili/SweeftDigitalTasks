@@ -1,0 +1,15 @@
+F:\Programs\C#\source\repos\Task 4 IsProperly\bin\Debug\net6.0\Task 4 IsProperly.exe
+F:\Programs\C#\source\repos\Task 4 IsProperly\bin\Debug\net6.0\Task 4 IsProperly.deps.json
+F:\Programs\C#\source\repos\Task 4 IsProperly\bin\Debug\net6.0\Task 4 IsProperly.runtimeconfig.json
+F:\Programs\C#\source\repos\Task 4 IsProperly\bin\Debug\net6.0\Task 4 IsProperly.dll
+F:\Programs\C#\source\repos\Task 4 IsProperly\bin\Debug\net6.0\Task 4 IsProperly.pdb
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.csproj.AssemblyReference.cache
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.AssemblyInfoInputs.cache
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.AssemblyInfo.cs
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.csproj.CoreCompileInputs.cache
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.dll
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\refint\Task 4 IsProperly.dll
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.pdb
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\Task 4 IsProperly.genruntimeconfig.cache
+F:\Programs\C#\source\repos\Task 4 IsProperly\obj\Debug\net6.0\ref\Task 4 IsProperly.dll
